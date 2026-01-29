@@ -67,6 +67,7 @@ Possible actions:
 ## Outputs
 
 - Event Study plots (per store / direction)
+- <img width="960" height="720" alt="event_study_CA_1_dir=down_log1p_sales" src="https://github.com/user-attachments/assets/24848870-e21c-4ffa-b5f9-56554c1f24a6" />
 - Store-level pricing policy table
 - Weekly item-level pricing recommendations
 
@@ -74,6 +75,15 @@ Possible actions:
 
 ```bash
 pip install -r requirements.txt
+
+# Step 1: connect the raw data
+python scripts/1_build_panel.py
+
+# Step 2: load and check data
+python scripts/2_check_price.py
+
+# Step 3: from mature data extract event
+python scripts/3_extract_price_events.py
 
 # Step 4: DID
 python src/step4_run_did.py
