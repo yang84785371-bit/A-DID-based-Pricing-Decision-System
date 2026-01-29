@@ -67,7 +67,7 @@ Possible actions:
 ## Outputs
 
 - Event Study plots (per store / direction)
- <img width="960" height="720" alt="event_study_CA_1_dir=down_log1p_sales" src="https://github.com/user-attachments/assets/24848870-e21c-4ffa-b5f9-56554c1f24a6" />
+  <img width="960" height="720" alt="event_study_CA_1_dir=down_log1p_sales" src="https://github.com/user-attachments/assets/24848870-e21c-4ffa-b5f9-56554c1f24a6" />
 - Store-level pricing policy table
 - Weekly item-level pricing recommendations
 
