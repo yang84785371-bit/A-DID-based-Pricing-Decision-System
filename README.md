@@ -22,29 +22,6 @@ making pricing decisions safer and more interpretable.
 5. Build store-level pricing policy table
 6. Generate weekly item-level pricing recommendations
 
-## Project Structure
-
-.
-├── data/
-│   ├── did_parts/              # event-level parquet files
-│   └── weekly_store/           # weekly store-item panel
-│
-├── src/
-│   ├── step4_run_did.py         # Event Study & 2x2 DID
-│   ├── step5_build_policy.py   # Build pricing policy table
-│   ├── step6_run_pricing.py    # Weekly pricing recommendation engine
-│   └── utils/
-│       ├── did_utils.py
-│       └── io_utils.py
-│
-├── output/
-│   ├── did_results/
-│   ├── policy_tables/
-│   └── pricing_reco/
-│
-├── requirements.txt
-└── README.md
-
 ### Event Study DID
 
 We estimate the following model on event-level differences:
