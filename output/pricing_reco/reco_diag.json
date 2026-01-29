@@ -1,0 +1,142 @@
+[
+  {
+    "store_id": "CA_1",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 3.4827922413852785e-73,
+      "ate": 0.6316928626080662,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "CA_2",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 3.951212583600061e-82,
+      "ate": 0.7793875222901163,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "CA_3",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 6.807576170553964e-08,
+      "ate": 0.2550956781013298,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "CA_4",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 6.76504311342327e-76,
+      "ate": 0.5454291081024982,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "TX_1",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 9.577721537991548e-58,
+      "ate": 0.5541820969090078,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "TX_2",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 1,
+      "p": 7.536330892631768e-57,
+      "ate": 0.6102486563550884,
+      "confidence": 1.0,
+      "mode": "normal"
+    }
+  },
+  {
+    "store_id": "TX_3",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 1,
+      "p": 3.647802635369469e-69,
+      "ate": 0.6292875030329159,
+      "confidence": 1.0,
+      "mode": "normal"
+    }
+  },
+  {
+    "store_id": "WI_1",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 2.0365158751763814e-61,
+      "ate": 0.5502669236202733,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "WI_2",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 3.1143392922160626e-82,
+      "ate": 0.64559789166159,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  },
+  {
+    "store_id": "WI_3",
+    "ok": true,
+    "current_wm_yr_wk": 11613,
+    "n_items_cur_week": 3049,
+    "n_out": 200,
+    "policy_overall": {
+      "pretrend_pass": 0,
+      "p": 2.6574752458029634e-68,
+      "ate": 0.6468849084877271,
+      "confidence": 0.8,
+      "mode": "audit_only"
+    }
+  }
+]

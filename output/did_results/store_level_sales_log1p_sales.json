@@ -1,0 +1,202 @@
+[
+  {
+    "ok": true,
+    "store_id": "CA_1",
+    "n_files": 10,
+    "n_events": 901,
+    "n_obs_event_time": 15269,
+    "event_study": {
+      "ok": true,
+      "n_obs": 15269,
+      "n_events": 901,
+      "baseline_time": -1,
+      "r2": 0.10818704408951707
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 901,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "CA_2",
+    "n_files": 9,
+    "n_events": 812,
+    "n_obs_event_time": 13741,
+    "event_study": {
+      "ok": true,
+      "n_obs": 13741,
+      "n_events": 812,
+      "baseline_time": -1,
+      "r2": 0.13884390299494298
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 812,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "CA_3",
+    "n_files": 8,
+    "n_events": 784,
+    "n_obs_event_time": 13298,
+    "event_study": {
+      "ok": true,
+      "n_obs": 13298,
+      "n_events": 784,
+      "baseline_time": -1,
+      "r2": 0.017969453707892047
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 784,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "CA_4",
+    "n_files": 10,
+    "n_events": 911,
+    "n_obs_event_time": 15435,
+    "event_study": {
+      "ok": true,
+      "n_obs": 15435,
+      "n_events": 911,
+      "baseline_time": -1,
+      "r2": 0.10698007174032387
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 911,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "TX_1",
+    "n_files": 8,
+    "n_events": 778,
+    "n_obs_event_time": 13194,
+    "event_study": {
+      "ok": true,
+      "n_obs": 13194,
+      "n_events": 778,
+      "baseline_time": -1,
+      "r2": 0.10067371807374625
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 778,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "TX_2",
+    "n_files": 9,
+    "n_events": 824,
+    "n_obs_event_time": 13965,
+    "event_study": {
+      "ok": true,
+      "n_obs": 13965,
+      "n_events": 824,
+      "baseline_time": -1,
+      "r2": 0.09653133433245087
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 824,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "TX_3",
+    "n_files": 9,
+    "n_events": 867,
+    "n_obs_event_time": 14700,
+    "event_study": {
+      "ok": true,
+      "n_obs": 14700,
+      "n_events": 867,
+      "baseline_time": -1,
+      "r2": 0.11047776037533641
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 867,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "WI_1",
+    "n_files": 9,
+    "n_events": 894,
+    "n_obs_event_time": 15143,
+    "event_study": {
+      "ok": true,
+      "n_obs": 15143,
+      "n_events": 894,
+      "baseline_time": -1,
+      "r2": 0.09388429258795039
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 894,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "WI_2",
+    "n_files": 9,
+    "n_events": 895,
+    "n_obs_event_time": 15170,
+    "event_study": {
+      "ok": true,
+      "n_obs": 15170,
+      "n_events": 895,
+      "baseline_time": -1,
+      "r2": 0.12283946853116523
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 895,
+      "tmin": -8,
+      "tmax": 8
+    }
+  },
+  {
+    "ok": true,
+    "store_id": "WI_3",
+    "n_files": 9,
+    "n_events": 869,
+    "n_obs_event_time": 14718,
+    "event_study": {
+      "ok": true,
+      "n_obs": 14718,
+      "n_events": 869,
+      "baseline_time": -1,
+      "r2": 0.11025400295234156
+    },
+    "ate": {
+      "ok": true,
+      "n_events": 869,
+      "tmin": -8,
+      "tmax": 8
+    }
+  }
+]

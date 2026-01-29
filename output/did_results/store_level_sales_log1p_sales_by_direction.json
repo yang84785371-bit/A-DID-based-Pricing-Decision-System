@@ -1,0 +1,392 @@
+[
+  {
+    "ok": true,
+    "store_id": "CA_1",
+    "n_files": 10,
+    "groups": [
+      {
+        "store_id": "CA_1",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7201,
+          "n_events": 425,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 425
+        },
+        "n_events": 425,
+        "n_obs_event_time": 7201
+      },
+      {
+        "store_id": "CA_1",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 8068,
+          "n_events": 476,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 476
+        },
+        "n_events": 476,
+        "n_obs_event_time": 8068
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "CA_2",
+    "n_files": 9,
+    "groups": [
+      {
+        "store_id": "CA_2",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 6811,
+          "n_events": 402,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 402
+        },
+        "n_events": 402,
+        "n_obs_event_time": 6811
+      },
+      {
+        "store_id": "CA_2",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 6930,
+          "n_events": 410,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 410
+        },
+        "n_events": 410,
+        "n_obs_event_time": 6930
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "CA_3",
+    "n_files": 8,
+    "groups": [
+      {
+        "store_id": "CA_3",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 8293,
+          "n_events": 489,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 489
+        },
+        "n_events": 489,
+        "n_obs_event_time": 8293
+      },
+      {
+        "store_id": "CA_3",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 5005,
+          "n_events": 295,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 295
+        },
+        "n_events": 295,
+        "n_obs_event_time": 5005
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "CA_4",
+    "n_files": 10,
+    "groups": [
+      {
+        "store_id": "CA_4",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7342,
+          "n_events": 433,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 433
+        },
+        "n_events": 433,
+        "n_obs_event_time": 7342
+      },
+      {
+        "store_id": "CA_4",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 8093,
+          "n_events": 478,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 478
+        },
+        "n_events": 478,
+        "n_obs_event_time": 8093
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "TX_1",
+    "n_files": 8,
+    "groups": [
+      {
+        "store_id": "TX_1",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7707,
+          "n_events": 454,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 454
+        },
+        "n_events": 454,
+        "n_obs_event_time": 7707
+      },
+      {
+        "store_id": "TX_1",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 5487,
+          "n_events": 324,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 324
+        },
+        "n_events": 324,
+        "n_obs_event_time": 5487
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "TX_2",
+    "n_files": 9,
+    "groups": [
+      {
+        "store_id": "TX_2",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7884,
+          "n_events": 465,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 465
+        },
+        "n_events": 465,
+        "n_obs_event_time": 7884
+      },
+      {
+        "store_id": "TX_2",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 6081,
+          "n_events": 359,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 359
+        },
+        "n_events": 359,
+        "n_obs_event_time": 6081
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "TX_3",
+    "n_files": 9,
+    "groups": [
+      {
+        "store_id": "TX_3",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 8645,
+          "n_events": 510,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 510
+        },
+        "n_events": 510,
+        "n_obs_event_time": 8645
+      },
+      {
+        "store_id": "TX_3",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 6055,
+          "n_events": 357,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 357
+        },
+        "n_events": 357,
+        "n_obs_event_time": 6055
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "WI_1",
+    "n_files": 9,
+    "groups": [
+      {
+        "store_id": "WI_1",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7378,
+          "n_events": 435,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 435
+        },
+        "n_events": 435,
+        "n_obs_event_time": 7378
+      },
+      {
+        "store_id": "WI_1",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7765,
+          "n_events": 459,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 459
+        },
+        "n_events": 459,
+        "n_obs_event_time": 7765
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "WI_2",
+    "n_files": 9,
+    "groups": [
+      {
+        "store_id": "WI_2",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 8113,
+          "n_events": 478,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 478
+        },
+        "n_events": 478,
+        "n_obs_event_time": 8113
+      },
+      {
+        "store_id": "WI_2",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7057,
+          "n_events": 417,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 417
+        },
+        "n_events": 417,
+        "n_obs_event_time": 7057
+      }
+    ]
+  },
+  {
+    "ok": true,
+    "store_id": "WI_3",
+    "n_files": 9,
+    "groups": [
+      {
+        "store_id": "WI_3",
+        "direction": "down",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7092,
+          "n_events": 418,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 418
+        },
+        "n_events": 418,
+        "n_obs_event_time": 7092
+      },
+      {
+        "store_id": "WI_3",
+        "direction": "up",
+        "event_study": {
+          "ok": true,
+          "n_obs": 7626,
+          "n_events": 451,
+          "baseline_time": -1
+        },
+        "ate": {
+          "ok": true,
+          "n_events": 451
+        },
+        "n_events": 451,
+        "n_obs_event_time": 7626
+      }
+    ]
+  }
+]
